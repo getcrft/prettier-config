@@ -1,0 +1,9 @@
+{
+  "name": "@crft/prettier-config",
+  "version": "1.0.0",
+  "description": "Global prettier config for CRFT projects",
+  "main": "index.json",
+  "repository": "git@github.com:getcrft/prettier-config.git",
+  "author": "CRFT <support@crft.app>",
+  "license": "MIT"
+}
