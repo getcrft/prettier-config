@@ -1,14 +1,19 @@
-@getcrft/prettier-config
-The CRFT Prettier config.
+# `@getcrft/prettier-config`
+> The CRFT Prettier config.
 
-Usage
-Install:
+## Usage
 
-\$ yarn add --dev @getcrft/prettier-config
+**Install**:
 
-Edit package.json:
+```bash
+$ yarn add --dev @getcrft/prettier-config
+```
 
+**Edit `package.json`**:
+
+```jsonc
 {
 // ...
 "prettier": "@getcrft/prettier-config"
 }
+```
